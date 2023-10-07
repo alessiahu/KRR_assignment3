@@ -1,4 +1,4 @@
-# KRR_assignment3
+# ASP for Planning 
 
 Wrote an ASP program to solve the following (toy) planning problem. This problem is about finding a way to deliver some packages from warehouses to specified delivery locations, using several (electric) trucks.
 
